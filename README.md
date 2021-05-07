@@ -34,11 +34,12 @@ expo init ejemplo
 cd ejemplo
 npm install native-base --save
 expo install expo-font 
+expo install expo-app-loading
 expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
 expo install @react-navigation/native @react-navigation/stack
 ```
 
-4. Una vez listo, ejecuta el proyecto:
+4. Copiar los archivos y pegarlos en la carpeta del proyecto. Una vez listo, ejecutar el proyecto:
 ```bash
 npm start
 ```
