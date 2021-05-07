@@ -34,9 +34,8 @@ expo init ejemplo
 cd ejemplo
 npm install native-base --save
 expo install expo-font 
-expo install react-native-gesture-handler react-native-reanimated react-native-screen react-native-safe-area-context @react-native-community/masked-view
+expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
 expo install @react-navigation/native @react-navigation/stack
-node .
 ```
 
 4. Una vez listo, ejecuta el proyecto:
