@@ -62,7 +62,7 @@ First exercices made in React Native.
 
 They are a set of functionalities with the objective of practicing the creation of components of an app.
 
-### Project for educational purposes
+### Project made for educational purposes
 **Institute** : [Da Vinci School](https://www.davinci.edu.ar)
 **Professor** : [Christian Dario Nievas](https://www.github.com/CDNievas)
 
